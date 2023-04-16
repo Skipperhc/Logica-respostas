@@ -1,0 +1,10 @@
+azul_1 ⇒ 11anos_2 ∨ 11anos_3 ∨ 11anos_4 ∨ 11anos_5
+azul_2 ⇒ 11anos_3 ∨ 11anos_4 ∨ 11anos_5
+azul_3 ⇒ 11anos_4 ∨ 11anos_5
+azul_4 ⇒ 11anos_5
+¬ 11anos_1
+amarelo_1 ⇒ 11anos_2
+amarelo_2 ⇒ 11anos_3
+amarelo_3 ⇒ 11anos_4
+amarelo_4 ⇒ 11anos_5
+¬ 11anos_1

@@ -1,0 +1,10 @@
+azul_1 ⇒ 9anos_2
+9anos_1 ⇒ azul_2
+azul_2 ⇒ 9anos_1 ∨ 9anos_3
+9anos_2 ⇒ azul_1 ∨ azul_3
+azul_3 ⇒ 9anos_2 ∨ 9anos_4
+9anos_3 ⇒ azul_2 ∨ azul_4
+azul_4 ⇒ 9anos_3 ∨ 9anos_5
+9anos_4 ⇒ azul_3 ∨ azul_5
+azul_5 ⇒ 9anos_4
+9anos_5 ⇒ azul_4

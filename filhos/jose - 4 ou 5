@@ -1,0 +1,5 @@
+verde_1 ⇒ jose_2 ∨ jose_3 ∨ jose_4 ∨ jose_5
+verde_2 ⇒ jose_3 ∨ jose_4 ∨ jose_5
+verde_3 ⇒ jose_4 ∨ jose_5
+verde_4 ⇒ jose_5
+¬ jose_1

@@ -1,0 +1,15 @@
+verde_1 ⇒ bahia_2
+verde_2 ⇒ bahia_3
+verde_3 ⇒ bahia_4
+verde_4 ⇒ bahia_5
+¬ verde_5
+verde_1 ⇒ 8anos_2 ∨ 8anos_3 ∨ 8anos_4 ∨ 8anos_5
+verde_2 ⇒ 8anos_3 ∨ 8anos_4 ∨ 8anos_5
+verde_3 ⇒ 8anos_4 ∨ 8anos_5
+verde_4 ⇒ 8anos_5
+¬ verde_5
+verde_1 ⇒ jose_2 ∨ jose_3 ∨ jose_4 ∨ jose_5
+verde_2 ⇒ jose_3 ∨ jose_4 ∨ jose_5
+verde_3 ⇒ jose_4 ∨ jose_5
+verde_4 ⇒ jose_5
+¬ verde_5

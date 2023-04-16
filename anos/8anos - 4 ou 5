@@ -1,0 +1,5 @@
+verde_1 ⇒ 8anos_2 ∨ 8anos_3 ∨ 8anos_4 ∨ 8anos_5
+verde_2 ⇒ 8anos_3 ∨ 8anos_4 ∨ 8anos_5
+verde_3 ⇒ 8anos_4 ∨ 8anos_5
+verde_4 ⇒ 8anos_5
+¬ 8anos_1

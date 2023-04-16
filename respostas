@@ -1,0 +1,18 @@
+verde_3 ⇒ bahia_4
+verde_4 ⇒ bahia_5
+
+verde_3 ⇒ 8anos_4 ∨ 8anos_5
+verde_4 ⇒ 8anos_5
+
+verde_3 ⇒ jose_4 ∨ jose_5
+verde_4 ⇒ jose_5
+
+verde_3 ⇒ jose_4 ∨ jose_5
+verde_4 ⇒ jose_5
+
+azul_1 ⇒ 11anos_2 ∨ 11anos_3 ∨ 11anos_4 ∨ 11anos_5
+azul_2 ⇒ 11anos_3 ∨ 11anos_4 ∨ 11anos_5
+azul_3 ⇒ 11anos_4 ∨ 11anos_5
+azul_4 ⇒ 11anos_5
+¬ azul_5
+¬ 11anos_1

@@ -1,0 +1,18 @@
+suspiro_1 ⇔  alagoas_1
+suspiro_2 ⇔  alagoas_2
+suspiro_3 ⇔  alagoas_3
+suspiro_4 ⇔  alagoas_4
+suspiro_5 ⇔  alagoas_5 F
+suspiro_1 ⇒ roberto_2
+suspiro_2 ⇒ roberto_3
+suspiro_3 ⇒ roberto_4
+suspiro_4 ⇒ roberto_5
+¬ suspiro_5
+
+respostas
+
+suspiro_3 ⇒ roberto_4
+suspiro_4 ⇒ roberto_5
+
+suspiro_3 ⇔  alagoas_3
+suspiro_4 ⇔  alagoas_4

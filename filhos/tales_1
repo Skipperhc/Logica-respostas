@@ -1,0 +1,36 @@
+luciana_1 ⇒ tales_2
+tales_1 ⇒ luciana_2
+luciana_2 ⇒ tales_1 ∨ tales_3
+tales_2 ⇒ luciana_1 ∨ luciana_3
+luciana_3 ⇒ tales_2 ∨ tales_4
+tales_3 ⇒ luciana_2 ∨ luciana_4
+luciana_4 ⇒ tales_3 ∨ tales_5
+tales_4 ⇒ luciana_3 ∨ luciana_5
+luciana_5 ⇒ tales_4
+tales_5 ⇒ luciana_4
+
+respostas
+
+luiz_3
+francisco_2 ⇒ luiz_3
+
+verde_3 ⇒ jose_4 ∨ jose_5
+verde_4 ⇒ jose_5
+verde_3 ⇒ bahia_4
+verde_4 ⇒ bahia_5
+verde_3 ⇒ 8anos_4 ∨ 8anos_5
+verde_4 ⇒ 8anos_5
+verde_3 ⇒ jose_4 ∨ jose_5
+verde_4 ⇒ jose_5
+
+roberto_4 ⇔  pamonha_4
+roberto_5 ⇔  pamonha_5
+
+suspiro_3 ⇒ roberto_4
+suspiro_4 ⇒ roberto_5
+
+suspiro_3 ⇔  alagoas_3
+suspiro_4 ⇔  alagoas_4
+
+arroz_2 ⇒ alagoas_3
+arroz_3 ⇒ alagoas_4

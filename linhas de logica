@@ -1,0 +1,448 @@
+amarelo_1 ∨ azul_1 ∨ branco_1 ∨ verde_1 ∨ vermelho_1
+amarelo_2 ∨ azul_2 ∨ branco_2 ∨ verde_2 ∨ vermelho_2
+amarelo_3 ∨ azul_3 ∨ branco_3 ∨ verde_3 ∨ vermelho_3
+amarelo_4 ∨ azul_4 ∨ branco_4 ∨ verde_4 ∨ vermelho_4
+amarelo_5 ∨ azul_5 ∨ branco_5 ∨ verde_5 ∨ vermelho_5
+eduarda_1 ∨ fatima_1 ∨ luciana_1 ∨ maria_1 ∨ valentina_1
+eduarda_2 ∨ fatima_2 ∨ luciana_2 ∨ maria_2 ∨ valentina_2
+eduarda_3 ∨ fatima_3 ∨ luciana_3 ∨ maria_3 ∨ valentina_3
+eduarda_4 ∨ fatima_4 ∨ luciana_4 ∨ maria_4 ∨ valentina_4
+eduarda_5 ∨ fatima_5 ∨ luciana_5 ∨ maria_5 ∨ valentina_5
+francisco_1 ∨ jose_1 ∨ luiz_1 ∨ roberto_1 ∨ tales_1
+francisco_2 ∨ jose_2 ∨ luiz_2 ∨ roberto_2 ∨ tales_2
+francisco_3 ∨ jose_3 ∨ luiz_3 ∨ roberto_3 ∨ tales_3
+francisco_4 ∨ jose_4 ∨ luiz_4 ∨ roberto_4 ∨ tales_4
+francisco_5 ∨ jose_5 ∨ luiz_5 ∨ roberto_5 ∨ tales_5
+7anos_1 ∨ 8anos_1 ∨ 9anos_1 ∨ 10anos_1 ∨ 11anos_1
+7anos_2 ∨ 8anos_2 ∨ 9anos_2 ∨ 10anos_2 ∨ 11anos_2
+7anos_3 ∨ 8anos_3 ∨ 9anos_3 ∨ 10anos_3 ∨ 11anos_3
+7anos_4 ∨ 8anos_4 ∨ 9anos_4 ∨ 10anos_4 ∨ 11anos_4
+7anos_5 ∨ 8anos_5 ∨ 9anos_5 ∨ 10anos_5 ∨ 11anos_5
+arroz_1 ∨ cuscuz_1 ∨ pamonha_1 ∨ moleque_1 ∨ suspiro_1
+arroz_2 ∨ cuscuz_2 ∨ pamonha_2 ∨ moleque_2 ∨ suspiro_2
+arroz_3 ∨ cuscuz_3 ∨ pamonha_3 ∨ moleque_3 ∨ suspiro_3
+arroz_4 ∨ cuscuz_4 ∨ pamonha_4 ∨ moleque_4 ∨ suspiro_4
+arroz_5 ∨ cuscuz_5 ∨ pamonha_5 ∨ moleque_5 ∨ suspiro_5
+alagoas_1 ∨ bahia_1 ∨ ceara_1 ∨ paraiba_1 ∨ sergipe_1
+alagoas_2 ∨ bahia_2 ∨ ceara_2 ∨ paraiba_2 ∨ sergipe_2
+alagoas_3 ∨ bahia_3 ∨ ceara_3 ∨ paraiba_3 ∨ sergipe_3
+alagoas_4 ∨ bahia_4 ∨ ceara_4 ∨ paraiba_4 ∨ sergipe_4
+alagoas_5 ∨ bahia_5 ∨ ceara_5 ∨ paraiba_5 ∨ sergipe_5
+amarelo_1 ⇒  ¬azul_1 ∧  ¬branco_1 ∧  ¬verde_1 ∧  ¬vermelho_1
+azul_1 ⇒  ¬amarelo_1 ∧  ¬branco_1 ∧  ¬verde_1 ∧  ¬vermelho_1
+branco_1 ⇒  ¬amarelo_1 ∧  ¬azul_1 ∧  ¬verde_1 ∧  ¬vermelho_1
+verde_1 ⇒  ¬amarelo_1 ∧  ¬azul_1 ∧  ¬branco_1 ∧  ¬vermelho_1
+vermelho_1 ⇒  ¬amarelo_1 ∧  ¬azul_1 ∧  ¬branco_1 ∧  ¬verde_1
+amarelo_2 ⇒  ¬azul_2 ∧  ¬branco_2 ∧  ¬verde_2 ∧  ¬vermelho_2
+azul_2 ⇒  ¬amarelo_2 ∧  ¬branco_2 ∧  ¬verde_2 ∧  ¬vermelho_2
+branco_2 ⇒  ¬amarelo_2 ∧  ¬azul_2 ∧  ¬verde_2 ∧  ¬vermelho_2
+verde_2 ⇒  ¬amarelo_2 ∧  ¬azul_2 ∧  ¬branco_2 ∧  ¬vermelho_2
+vermelho_2 ⇒  ¬amarelo_2 ∧  ¬azul_2 ∧  ¬branco_2 ∧  ¬verde_2
+amarelo_3 ⇒  ¬azul_3 ∧  ¬branco_3 ∧  ¬verde_3 ∧  ¬vermelho_3
+azul_3 ⇒  ¬amarelo_3 ∧  ¬branco_3 ∧  ¬verde_3 ∧  ¬vermelho_3
+branco_3 ⇒  ¬amarelo_3 ∧  ¬azul_3 ∧  ¬verde_3 ∧  ¬vermelho_3
+verde_3 ⇒  ¬amarelo_3 ∧  ¬azul_3 ∧  ¬branco_3 ∧  ¬vermelho_3
+vermelho_3 ⇒  ¬amarelo_3 ∧  ¬azul_3 ∧  ¬branco_3 ∧  ¬verde_3
+amarelo_4 ⇒  ¬azul_4 ∧  ¬branco_4 ∧  ¬verde_4 ∧  ¬vermelho_4
+azul_4 ⇒  ¬amarelo_4 ∧  ¬branco_4 ∧  ¬verde_4 ∧  ¬vermelho_4
+branco_4 ⇒  ¬amarelo_4 ∧  ¬azul_4 ∧  ¬verde_4 ∧  ¬vermelho_4
+verde_4 ⇒  ¬amarelo_4 ∧  ¬azul_4 ∧  ¬branco_4 ∧  ¬vermelho_4
+vermelho_4 ⇒  ¬amarelo_4 ∧  ¬azul_4 ∧  ¬branco_4 ∧  ¬verde_4
+amarelo_5 ⇒  ¬azul_5 ∧  ¬branco_5 ∧  ¬verde_5 ∧  ¬vermelho_5
+azul_5 ⇒  ¬amarelo_5 ∧  ¬branco_5 ∧  ¬verde_5 ∧  ¬vermelho_5
+branco_5 ⇒  ¬amarelo_5 ∧  ¬azul_5 ∧  ¬verde_5 ∧  ¬vermelho_5
+verde_5 ⇒  ¬amarelo_5 ∧  ¬azul_5 ∧  ¬branco_5 ∧  ¬vermelho_5
+vermelho_5 ⇒  ¬amarelo_5 ∧  ¬azul_5 ∧  ¬branco_5 ∧  ¬verde_5
+amarelo_1 ⇒  ¬amarelo_2 ∧  ¬amarelo_3 ∧  ¬amarelo_4 ∧  ¬amarelo_5
+amarelo_2 ⇒  ¬amarelo_1 ∧  ¬amarelo_3 ∧  ¬amarelo_4 ∧  ¬amarelo_5
+amarelo_3 ⇒  ¬amarelo_1 ∧  ¬amarelo_2 ∧  ¬amarelo_4 ∧  ¬amarelo_5
+amarelo_4 ⇒  ¬amarelo_1 ∧  ¬amarelo_2 ∧  ¬amarelo_3 ∧  ¬amarelo_5
+amarelo_5 ⇒  ¬amarelo_1 ∧  ¬amarelo_2 ∧  ¬amarelo_3 ∧  ¬amarelo_4
+azul_1 ⇒  ¬azul_2 ∧  ¬azul_3 ∧  ¬azul_4 ∧  ¬azul_5
+azul_2 ⇒  ¬azul_1 ∧  ¬azul_3 ∧  ¬azul_4 ∧  ¬azul_5
+azul_3 ⇒  ¬azul_1 ∧  ¬azul_2 ∧  ¬azul_4 ∧  ¬azul_5
+azul_4 ⇒  ¬azul_1 ∧  ¬azul_2 ∧  ¬azul_3 ∧  ¬azul_5
+azul_5 ⇒  ¬azul_1 ∧  ¬azul_2 ∧  ¬azul_3 ∧  ¬azul_4
+branco_1 ⇒  ¬branco_2 ∧  ¬branco_3 ∧  ¬branco_4 ∧  ¬branco_5
+branco_2 ⇒  ¬branco_1 ∧  ¬branco_3 ∧  ¬branco_4 ∧  ¬branco_5
+branco_3 ⇒  ¬branco_1 ∧  ¬branco_2 ∧  ¬branco_4 ∧  ¬branco_5
+branco_4 ⇒  ¬branco_1 ∧  ¬branco_2 ∧  ¬branco_3 ∧  ¬branco_5
+branco_5 ⇒  ¬branco_1 ∧  ¬branco_2 ∧  ¬branco_3 ∧  ¬branco_4
+verde_1 ⇒  ¬verde_2 ∧  ¬verde_3 ∧  ¬verde_4 ∧  ¬verde_5
+verde_2 ⇒  ¬verde_1 ∧  ¬verde_3 ∧  ¬verde_4 ∧  ¬verde_5
+verde_3 ⇒  ¬verde_1 ∧  ¬verde_2 ∧  ¬verde_4 ∧  ¬verde_5
+verde_4 ⇒  ¬verde_1 ∧  ¬verde_2 ∧  ¬verde_3 ∧  ¬verde_5
+verde_5 ⇒  ¬verde_1 ∧  ¬verde_2 ∧  ¬verde_3 ∧  ¬verde_4
+vermelho_1 ⇒  ¬vermelho_2 ∧  ¬vermelho_3 ∧  ¬vermelho_4 ∧  ¬vermelho_5
+vermelho_2 ⇒  ¬vermelho_1 ∧  ¬vermelho_3 ∧  ¬vermelho_4 ∧  ¬vermelho_5
+vermelho_3 ⇒  ¬vermelho_1 ∧  ¬vermelho_2 ∧  ¬vermelho_4 ∧  ¬vermelho_5
+vermelho_4 ⇒  ¬vermelho_1 ∧  ¬vermelho_2 ∧  ¬vermelho_3 ∧  ¬vermelho_5
+vermelho_5 ⇒  ¬vermelho_1 ∧  ¬vermelho_2 ∧  ¬vermelho_3 ∧  ¬vermelho_4
+eduarda_1 ⇒  ¬fatima_1 ∧  ¬luciana_1 ∧  ¬maria_1 ∧  ¬valentina_1
+fatima_1 ⇒  ¬eduarda_1 ∧  ¬luciana_1 ∧  ¬maria_1 ∧  ¬valentina_1
+luciana_1 ⇒  ¬eduarda_1 ∧  ¬fatima_1 ∧  ¬maria_1 ∧  ¬valentina_1
+maria_1 ⇒  ¬eduarda_1 ∧  ¬fatima_1 ∧  ¬luciana_1 ∧  ¬valentina_1
+valentina_1 ⇒  ¬eduarda_1 ∧  ¬fatima_1 ∧  ¬luciana_1 ∧  ¬maria_1
+eduarda_2 ⇒  ¬fatima_2 ∧  ¬luciana_2 ∧  ¬maria_2 ∧  ¬valentina_2
+fatima_2 ⇒  ¬eduarda_2 ∧  ¬luciana_2 ∧  ¬maria_2 ∧  ¬valentina_2
+luciana_2 ⇒  ¬eduarda_2 ∧  ¬fatima_2 ∧  ¬maria_2 ∧  ¬valentina_2
+maria_2 ⇒  ¬eduarda_2 ∧  ¬fatima_2 ∧  ¬luciana_2 ∧  ¬valentina_2
+valentina_2 ⇒  ¬eduarda_2 ∧  ¬fatima_2 ∧  ¬luciana_2 ∧  ¬maria_2
+eduarda_3 ⇒  ¬fatima_3 ∧  ¬luciana_3 ∧  ¬maria_3 ∧  ¬valentina_3
+fatima_3 ⇒  ¬eduarda_3 ∧  ¬luciana_3 ∧  ¬maria_3 ∧  ¬valentina_3
+luciana_3 ⇒  ¬eduarda_3 ∧  ¬fatima_3 ∧  ¬maria_3 ∧  ¬valentina_3
+maria_3 ⇒  ¬eduarda_3 ∧  ¬fatima_3 ∧  ¬luciana_3 ∧  ¬valentina_3
+valentina_3 ⇒  ¬eduarda_3 ∧  ¬fatima_3 ∧  ¬luciana_3 ∧  ¬maria_3
+eduarda_4 ⇒  ¬fatima_4 ∧  ¬luciana_4 ∧  ¬maria_4 ∧  ¬valentina_4
+fatima_4 ⇒  ¬eduarda_4 ∧  ¬luciana_4 ∧  ¬maria_4 ∧  ¬valentina_4
+luciana_4 ⇒  ¬eduarda_4 ∧  ¬fatima_4 ∧  ¬maria_4 ∧  ¬valentina_4
+maria_4 ⇒  ¬eduarda_4 ∧  ¬fatima_4 ∧  ¬luciana_4 ∧  ¬valentina_4
+valentina_4 ⇒  ¬eduarda_4 ∧  ¬fatima_4 ∧  ¬luciana_4 ∧  ¬maria_4
+eduarda_5 ⇒  ¬fatima_5 ∧  ¬luciana_5 ∧  ¬maria_5 ∧  ¬valentina_5
+fatima_5 ⇒  ¬eduarda_5 ∧  ¬luciana_5 ∧  ¬maria_5 ∧  ¬valentina_5
+luciana_5 ⇒  ¬eduarda_5 ∧  ¬fatima_5 ∧  ¬maria_5 ∧  ¬valentina_5
+maria_5 ⇒  ¬eduarda_5 ∧  ¬fatima_5 ∧  ¬luciana_5 ∧  ¬valentina_5
+valentina_5 ⇒  ¬eduarda_5 ∧  ¬fatima_5 ∧  ¬luciana_5 ∧  ¬maria_5
+eduarda_1 ⇒  ¬eduarda_2 ∧  ¬eduarda_3 ∧  ¬eduarda_4 ∧  ¬eduarda_5
+eduarda_2 ⇒  ¬eduarda_1 ∧  ¬eduarda_3 ∧  ¬eduarda_4 ∧  ¬eduarda_5
+eduarda_3 ⇒  ¬eduarda_1 ∧  ¬eduarda_2 ∧  ¬eduarda_4 ∧  ¬eduarda_5
+eduarda_4 ⇒  ¬eduarda_1 ∧  ¬eduarda_2 ∧  ¬eduarda_3 ∧  ¬eduarda_5
+eduarda_5 ⇒  ¬eduarda_1 ∧  ¬eduarda_2 ∧  ¬eduarda_3 ∧  ¬eduarda_4
+fatima_1 ⇒  ¬fatima_2 ∧  ¬fatima_3 ∧  ¬fatima_4 ∧  ¬fatima_5
+fatima_2 ⇒  ¬fatima_1 ∧  ¬fatima_3 ∧  ¬fatima_4 ∧  ¬fatima_5
+fatima_3 ⇒  ¬fatima_1 ∧  ¬fatima_2 ∧  ¬fatima_4 ∧  ¬fatima_5
+fatima_4 ⇒  ¬fatima_1 ∧  ¬fatima_2 ∧  ¬fatima_3 ∧  ¬fatima_5
+fatima_5 ⇒  ¬fatima_1 ∧  ¬fatima_2 ∧  ¬fatima_3 ∧  ¬fatima_4
+luciana_1 ⇒  ¬luciana_2 ∧  ¬luciana_3 ∧  ¬luciana_4 ∧  ¬luciana_5
+luciana_2 ⇒  ¬luciana_1 ∧  ¬luciana_3 ∧  ¬luciana_4 ∧  ¬luciana_5
+luciana_3 ⇒  ¬luciana_1 ∧  ¬luciana_2 ∧  ¬luciana_4 ∧  ¬luciana_5
+luciana_4 ⇒  ¬luciana_1 ∧  ¬luciana_2 ∧  ¬luciana_3 ∧  ¬luciana_5
+luciana_5 ⇒  ¬luciana_1 ∧  ¬luciana_2 ∧  ¬luciana_3 ∧  ¬luciana_4
+maria_1 ⇒  ¬maria_2 ∧  ¬maria_3 ∧  ¬maria_4 ∧  ¬maria_5
+maria_2 ⇒  ¬maria_1 ∧  ¬maria_3 ∧  ¬maria_4 ∧  ¬maria_5
+maria_3 ⇒  ¬maria_1 ∧  ¬maria_2 ∧  ¬maria_4 ∧  ¬maria_5
+maria_4 ⇒  ¬maria_1 ∧  ¬maria_2 ∧  ¬maria_3 ∧  ¬maria_5
+maria_5 ⇒  ¬maria_1 ∧  ¬maria_2 ∧  ¬maria_3 ∧  ¬maria_4
+valentina_1 ⇒  ¬valentina_2 ∧  ¬valentina_3 ∧  ¬valentina_4 ∧  ¬valentina_5
+valentina_2 ⇒  ¬valentina_1 ∧  ¬valentina_3 ∧  ¬valentina_4 ∧  ¬valentina_5
+valentina_3 ⇒  ¬valentina_1 ∧  ¬valentina_2 ∧  ¬valentina_4 ∧  ¬valentina_5
+valentina_4 ⇒  ¬valentina_1 ∧  ¬valentina_2 ∧  ¬valentina_3 ∧  ¬valentina_5
+valentina_5 ⇒  ¬valentina_1 ∧  ¬valentina_2 ∧  ¬valentina_3 ∧  ¬valentina_4
+francisco_1 ⇒  ¬jose_1 ∧  ¬luiz_1 ∧  ¬roberto_1 ∧  ¬tales_1
+jose_1 ⇒  ¬francisco_1 ∧  ¬luiz_1 ∧  ¬roberto_1 ∧  ¬tales_1
+luiz_1 ⇒  ¬francisco_1 ∧  ¬jose_1 ∧  ¬roberto_1 ∧  ¬tales_1
+roberto_1 ⇒  ¬francisco_1 ∧  ¬jose_1 ∧  ¬luiz_1 ∧  ¬tales_1
+tales_1 ⇒  ¬francisco_1 ∧  ¬jose_1 ∧  ¬luiz_1 ∧  ¬roberto_1
+francisco_2 ⇒  ¬jose_2 ∧  ¬luiz_2 ∧  ¬roberto_2 ∧  ¬tales_2
+jose_2 ⇒  ¬francisco_2 ∧  ¬luiz_2 ∧  ¬roberto_2 ∧  ¬tales_2
+luiz_2 ⇒  ¬francisco_2 ∧  ¬jose_2 ∧  ¬roberto_2 ∧  ¬tales_2
+roberto_2 ⇒  ¬francisco_2 ∧  ¬jose_2 ∧  ¬luiz_2 ∧  ¬tales_2
+tales_2 ⇒  ¬francisco_2 ∧  ¬jose_2 ∧  ¬luiz_2 ∧  ¬roberto_2
+francisco_3 ⇒  ¬jose_3 ∧  ¬luiz_3 ∧  ¬roberto_3 ∧  ¬tales_3
+jose_3 ⇒  ¬francisco_3 ∧  ¬luiz_3 ∧  ¬roberto_3 ∧  ¬tales_3
+luiz_3 ⇒  ¬francisco_3 ∧  ¬jose_3 ∧  ¬roberto_3 ∧  ¬tales_3
+roberto_3 ⇒  ¬francisco_3 ∧  ¬jose_3 ∧  ¬luiz_3 ∧  ¬tales_3
+tales_3 ⇒  ¬francisco_3 ∧  ¬jose_3 ∧  ¬luiz_3 ∧  ¬roberto_3
+francisco_4 ⇒  ¬jose_4 ∧  ¬luiz_4 ∧  ¬roberto_4 ∧  ¬tales_4
+jose_4 ⇒  ¬francisco_4 ∧  ¬luiz_4 ∧  ¬roberto_4 ∧  ¬tales_4
+luiz_4 ⇒  ¬francisco_4 ∧  ¬jose_4 ∧  ¬roberto_4 ∧  ¬tales_4
+roberto_4 ⇒  ¬francisco_4 ∧  ¬jose_4 ∧  ¬luiz_4 ∧  ¬tales_4
+tales_4 ⇒  ¬francisco_4 ∧  ¬jose_4 ∧  ¬luiz_4 ∧  ¬roberto_4
+francisco_5 ⇒  ¬jose_5 ∧  ¬luiz_5 ∧  ¬roberto_5 ∧  ¬tales_5
+jose_5 ⇒  ¬francisco_5 ∧  ¬luiz_5 ∧  ¬roberto_5 ∧  ¬tales_5
+luiz_5 ⇒  ¬francisco_5 ∧  ¬jose_5 ∧  ¬roberto_5 ∧  ¬tales_5
+roberto_5 ⇒  ¬francisco_5 ∧  ¬jose_5 ∧  ¬luiz_5 ∧  ¬tales_5
+tales_5 ⇒  ¬francisco_5 ∧  ¬jose_5 ∧  ¬luiz_5 ∧  ¬roberto_5
+francisco_1 ⇒  ¬francisco_2 ∧  ¬francisco_3 ∧  ¬francisco_4 ∧  ¬francisco_5
+francisco_2 ⇒  ¬francisco_1 ∧  ¬francisco_3 ∧  ¬francisco_4 ∧  ¬francisco_5
+francisco_3 ⇒  ¬francisco_1 ∧  ¬francisco_2 ∧  ¬francisco_4 ∧  ¬francisco_5
+francisco_4 ⇒  ¬francisco_1 ∧  ¬francisco_2 ∧  ¬francisco_3 ∧  ¬francisco_5
+francisco_5 ⇒  ¬francisco_1 ∧  ¬francisco_2 ∧  ¬francisco_3 ∧  ¬francisco_4
+jose_1 ⇒  ¬jose_2 ∧  ¬jose_3 ∧  ¬jose_4 ∧  ¬jose_5
+jose_2 ⇒  ¬jose_1 ∧  ¬jose_3 ∧  ¬jose_4 ∧  ¬jose_5
+jose_3 ⇒  ¬jose_1 ∧  ¬jose_2 ∧  ¬jose_4 ∧  ¬jose_5
+jose_4 ⇒  ¬jose_1 ∧  ¬jose_2 ∧  ¬jose_3 ∧  ¬jose_5
+jose_5 ⇒  ¬jose_1 ∧  ¬jose_2 ∧  ¬jose_3 ∧  ¬jose_4
+luiz_1 ⇒  ¬luiz_2 ∧  ¬luiz_3 ∧  ¬luiz_4 ∧  ¬luiz_5
+luiz_2 ⇒  ¬luiz_1 ∧  ¬luiz_3 ∧  ¬luiz_4 ∧  ¬luiz_5
+luiz_3 ⇒  ¬luiz_1 ∧  ¬luiz_2 ∧  ¬luiz_4 ∧  ¬luiz_5
+luiz_4 ⇒  ¬luiz_1 ∧  ¬luiz_2 ∧  ¬luiz_3 ∧  ¬luiz_5
+luiz_5 ⇒  ¬luiz_1 ∧  ¬luiz_2 ∧  ¬luiz_3 ∧  ¬luiz_4
+roberto_1 ⇒  ¬roberto_2 ∧  ¬roberto_3 ∧  ¬roberto_4 ∧  ¬roberto_5
+roberto_2 ⇒  ¬roberto_1 ∧  ¬roberto_3 ∧  ¬roberto_4 ∧  ¬roberto_5
+roberto_3 ⇒  ¬roberto_1 ∧  ¬roberto_2 ∧  ¬roberto_4 ∧  ¬roberto_5
+roberto_4 ⇒  ¬roberto_1 ∧  ¬roberto_2 ∧  ¬roberto_3 ∧  ¬roberto_5
+roberto_5 ⇒  ¬roberto_1 ∧  ¬roberto_2 ∧  ¬roberto_3 ∧  ¬roberto_4
+tales_1 ⇒  ¬tales_2 ∧  ¬tales_3 ∧  ¬tales_4 ∧  ¬tales_5
+tales_2 ⇒  ¬tales_1 ∧  ¬tales_3 ∧  ¬tales_4 ∧  ¬tales_5
+tales_3 ⇒  ¬tales_1 ∧  ¬tales_2 ∧  ¬tales_4 ∧  ¬tales_5
+tales_4 ⇒  ¬tales_1 ∧  ¬tales_2 ∧  ¬tales_3 ∧  ¬tales_5
+tales_5 ⇒  ¬tales_1 ∧  ¬tales_2 ∧  ¬tales_3 ∧  ¬tales_4
+7anos_1 ⇒  ¬8anos_1 ∧  ¬9anos_1 ∧  ¬10anos_1 ∧  ¬11anos_1
+8anos_1 ⇒  ¬7anos_1 ∧  ¬9anos_1 ∧  ¬10anos_1 ∧  ¬11anos_1
+9anos_1 ⇒  ¬7anos_1 ∧  ¬8anos_1 ∧  ¬10anos_1 ∧  ¬11anos_1
+10anos_1 ⇒  ¬7anos_1 ∧  ¬8anos_1 ∧  ¬9anos_1 ∧  ¬11anos_1
+11anos_1 ⇒  ¬7anos_1 ∧  ¬8anos_1 ∧  ¬9anos_1 ∧  ¬10anos_1
+7anos_2 ⇒  ¬8anos_2 ∧  ¬9anos_2 ∧  ¬10anos_2 ∧  ¬11anos_2
+8anos_2 ⇒  ¬7anos_2 ∧  ¬9anos_2 ∧  ¬10anos_2 ∧  ¬11anos_2
+9anos_2 ⇒  ¬7anos_2 ∧  ¬8anos_2 ∧  ¬10anos_2 ∧  ¬11anos_2
+10anos_2 ⇒  ¬7anos_2 ∧  ¬8anos_2 ∧  ¬9anos_2 ∧  ¬11anos_2
+11anos_2 ⇒  ¬7anos_2 ∧  ¬8anos_2 ∧  ¬9anos_2 ∧  ¬10anos_2
+7anos_3 ⇒  ¬8anos_3 ∧  ¬9anos_3 ∧  ¬10anos_3 ∧  ¬11anos_3
+8anos_3 ⇒  ¬7anos_3 ∧  ¬9anos_3 ∧  ¬10anos_3 ∧  ¬11anos_3
+9anos_3 ⇒  ¬7anos_3 ∧  ¬8anos_3 ∧  ¬10anos_3 ∧  ¬11anos_3
+10anos_3 ⇒  ¬7anos_3 ∧  ¬8anos_3 ∧  ¬9anos_3 ∧  ¬11anos_3
+11anos_3 ⇒  ¬7anos_3 ∧  ¬8anos_3 ∧  ¬9anos_3 ∧  ¬10anos_3
+7anos_4 ⇒  ¬8anos_4 ∧  ¬9anos_4 ∧  ¬10anos_4 ∧  ¬11anos_4
+8anos_4 ⇒  ¬7anos_4 ∧  ¬9anos_4 ∧  ¬10anos_4 ∧  ¬11anos_4
+9anos_4 ⇒  ¬7anos_4 ∧  ¬8anos_4 ∧  ¬10anos_4 ∧  ¬11anos_4
+10anos_4 ⇒  ¬7anos_4 ∧  ¬8anos_4 ∧  ¬9anos_4 ∧  ¬11anos_4
+11anos_4 ⇒  ¬7anos_4 ∧  ¬8anos_4 ∧  ¬9anos_4 ∧  ¬10anos_4
+7anos_5 ⇒  ¬8anos_5 ∧  ¬9anos_5 ∧  ¬10anos_5 ∧  ¬11anos_5
+8anos_5 ⇒  ¬7anos_5 ∧  ¬9anos_5 ∧  ¬10anos_5 ∧  ¬11anos_5
+9anos_5 ⇒  ¬7anos_5 ∧  ¬8anos_5 ∧  ¬10anos_5 ∧  ¬11anos_5
+10anos_5 ⇒  ¬7anos_5 ∧  ¬8anos_5 ∧  ¬9anos_5 ∧  ¬11anos_5
+11anos_5 ⇒  ¬7anos_5 ∧  ¬8anos_5 ∧  ¬9anos_5 ∧  ¬10anos_5
+7anos_1 ⇒  ¬7anos_2 ∧  ¬7anos_3 ∧  ¬7anos_4 ∧  ¬7anos_5
+7anos_2 ⇒  ¬7anos_1 ∧  ¬7anos_3 ∧  ¬7anos_4 ∧  ¬7anos_5
+7anos_3 ⇒  ¬7anos_1 ∧  ¬7anos_2 ∧  ¬7anos_4 ∧  ¬7anos_5
+7anos_4 ⇒  ¬7anos_1 ∧  ¬7anos_2 ∧  ¬7anos_3 ∧  ¬7anos_5
+7anos_5 ⇒  ¬7anos_1 ∧  ¬7anos_2 ∧  ¬7anos_3 ∧  ¬7anos_4
+8anos_1 ⇒  ¬8anos_2 ∧  ¬8anos_3 ∧  ¬8anos_4 ∧  ¬8anos_5
+8anos_2 ⇒  ¬8anos_1 ∧  ¬8anos_3 ∧  ¬8anos_4 ∧  ¬8anos_5
+8anos_3 ⇒  ¬8anos_1 ∧  ¬8anos_2 ∧  ¬8anos_4 ∧  ¬8anos_5
+8anos_4 ⇒  ¬8anos_1 ∧  ¬8anos_2 ∧  ¬8anos_3 ∧  ¬8anos_5
+8anos_5 ⇒  ¬8anos_1 ∧  ¬8anos_2 ∧  ¬8anos_3 ∧  ¬8anos_4
+9anos_1 ⇒  ¬9anos_2 ∧  ¬9anos_3 ∧  ¬9anos_4 ∧  ¬9anos_5
+9anos_2 ⇒  ¬9anos_1 ∧  ¬9anos_3 ∧  ¬9anos_4 ∧  ¬9anos_5
+9anos_3 ⇒  ¬9anos_1 ∧  ¬9anos_2 ∧  ¬9anos_4 ∧  ¬9anos_5
+9anos_4 ⇒  ¬9anos_1 ∧  ¬9anos_2 ∧  ¬9anos_3 ∧  ¬9anos_5
+9anos_5 ⇒  ¬9anos_1 ∧  ¬9anos_2 ∧  ¬9anos_3 ∧  ¬9anos_4
+10anos_1 ⇒  ¬10anos_2 ∧  ¬10anos_3 ∧  ¬10anos_4 ∧  ¬10anos_5
+10anos_2 ⇒  ¬10anos_1 ∧  ¬10anos_3 ∧  ¬10anos_4 ∧  ¬10anos_5
+10anos_3 ⇒  ¬10anos_1 ∧  ¬10anos_2 ∧  ¬10anos_4 ∧  ¬10anos_5
+10anos_4 ⇒  ¬10anos_1 ∧  ¬10anos_2 ∧  ¬10anos_3 ∧  ¬10anos_5
+10anos_5 ⇒  ¬10anos_1 ∧  ¬10anos_2 ∧  ¬10anos_3 ∧  ¬10anos_4
+11anos_1 ⇒  ¬11anos_2 ∧  ¬11anos_3 ∧  ¬11anos_4 ∧  ¬11anos_5
+11anos_2 ⇒  ¬11anos_1 ∧  ¬11anos_3 ∧  ¬11anos_4 ∧  ¬11anos_5
+11anos_3 ⇒  ¬11anos_1 ∧  ¬11anos_2 ∧  ¬11anos_4 ∧  ¬11anos_5
+11anos_4 ⇒  ¬11anos_1 ∧  ¬11anos_2 ∧  ¬11anos_3 ∧  ¬11anos_5
+11anos_5 ⇒  ¬11anos_1 ∧  ¬11anos_2 ∧  ¬11anos_3 ∧  ¬11anos_4
+arroz_1 ⇒  ¬cuscuz_1 ∧  ¬pamonha_1 ∧  ¬moleque_1 ∧  ¬suspiro_1
+cuscuz_1 ⇒  ¬arroz_1 ∧  ¬pamonha_1 ∧  ¬moleque_1 ∧  ¬suspiro_1
+pamonha_1 ⇒  ¬arroz_1 ∧  ¬cuscuz_1 ∧  ¬moleque_1 ∧  ¬suspiro_1
+moleque_1 ⇒  ¬arroz_1 ∧  ¬cuscuz_1 ∧  ¬pamonha_1 ∧  ¬suspiro_1
+suspiro_1 ⇒  ¬arroz_1 ∧  ¬cuscuz_1 ∧  ¬pamonha_1 ∧  ¬moleque_1
+arroz_2 ⇒  ¬cuscuz_2 ∧  ¬pamonha_2 ∧  ¬moleque_2 ∧  ¬suspiro_2
+cuscuz_2 ⇒  ¬arroz_2 ∧  ¬pamonha_2 ∧  ¬moleque_2 ∧  ¬suspiro_2
+pamonha_2 ⇒  ¬arroz_2 ∧  ¬cuscuz_2 ∧  ¬moleque_2 ∧  ¬suspiro_2
+moleque_2 ⇒  ¬arroz_2 ∧  ¬cuscuz_2 ∧  ¬pamonha_2 ∧  ¬suspiro_2
+suspiro_2 ⇒  ¬arroz_2 ∧  ¬cuscuz_2 ∧  ¬pamonha_2 ∧  ¬moleque_2
+arroz_3 ⇒  ¬cuscuz_3 ∧  ¬pamonha_3 ∧  ¬moleque_3 ∧  ¬suspiro_3
+cuscuz_3 ⇒  ¬arroz_3 ∧  ¬pamonha_3 ∧  ¬moleque_3 ∧  ¬suspiro_3
+pamonha_3 ⇒  ¬arroz_3 ∧  ¬cuscuz_3 ∧  ¬moleque_3 ∧  ¬suspiro_3
+moleque_3 ⇒  ¬arroz_3 ∧  ¬cuscuz_3 ∧  ¬pamonha_3 ∧  ¬suspiro_3
+suspiro_3 ⇒  ¬arroz_3 ∧  ¬cuscuz_3 ∧  ¬pamonha_3 ∧  ¬moleque_3
+arroz_4 ⇒  ¬cuscuz_4 ∧  ¬pamonha_4 ∧  ¬moleque_4 ∧  ¬suspiro_4
+cuscuz_4 ⇒  ¬arroz_4 ∧  ¬pamonha_4 ∧  ¬moleque_4 ∧  ¬suspiro_4
+pamonha_4 ⇒  ¬arroz_4 ∧  ¬cuscuz_4 ∧  ¬moleque_4 ∧  ¬suspiro_4
+moleque_4 ⇒  ¬arroz_4 ∧  ¬cuscuz_4 ∧  ¬pamonha_4 ∧  ¬suspiro_4
+suspiro_4 ⇒  ¬arroz_4 ∧  ¬cuscuz_4 ∧  ¬pamonha_4 ∧  ¬moleque_4
+arroz_5 ⇒  ¬cuscuz_5 ∧  ¬pamonha_5 ∧  ¬moleque_5 ∧  ¬suspiro_5
+cuscuz_5 ⇒  ¬arroz_5 ∧  ¬pamonha_5 ∧  ¬moleque_5 ∧  ¬suspiro_5
+pamonha_5 ⇒  ¬arroz_5 ∧  ¬cuscuz_5 ∧  ¬moleque_5 ∧  ¬suspiro_5
+moleque_5 ⇒  ¬arroz_5 ∧  ¬cuscuz_5 ∧  ¬pamonha_5 ∧  ¬suspiro_5
+suspiro_5 ⇒  ¬arroz_5 ∧  ¬cuscuz_5 ∧  ¬pamonha_5 ∧  ¬moleque_5
+arroz_1 ⇒  ¬arroz_2 ∧  ¬arroz_3 ∧  ¬arroz_4 ∧  ¬arroz_5
+arroz_2 ⇒  ¬arroz_1 ∧  ¬arroz_3 ∧  ¬arroz_4 ∧  ¬arroz_5
+arroz_3 ⇒  ¬arroz_1 ∧  ¬arroz_2 ∧  ¬arroz_4 ∧  ¬arroz_5
+arroz_4 ⇒  ¬arroz_1 ∧  ¬arroz_2 ∧  ¬arroz_3 ∧  ¬arroz_5
+arroz_5 ⇒  ¬arroz_1 ∧  ¬arroz_2 ∧  ¬arroz_3 ∧  ¬arroz_4
+cuscuz_1 ⇒  ¬cuscuz_2 ∧  ¬cuscuz_3 ∧  ¬cuscuz_4 ∧  ¬cuscuz_5
+cuscuz_2 ⇒  ¬cuscuz_1 ∧  ¬cuscuz_3 ∧  ¬cuscuz_4 ∧  ¬cuscuz_5
+cuscuz_3 ⇒  ¬cuscuz_1 ∧  ¬cuscuz_2 ∧  ¬cuscuz_4 ∧  ¬cuscuz_5
+cuscuz_4 ⇒  ¬cuscuz_1 ∧  ¬cuscuz_2 ∧  ¬cuscuz_3 ∧  ¬cuscuz_5
+cuscuz_5 ⇒  ¬cuscuz_1 ∧  ¬cuscuz_2 ∧  ¬cuscuz_3 ∧  ¬cuscuz_4
+pamonha_1 ⇒  ¬pamonha_2 ∧  ¬pamonha_3 ∧  ¬pamonha_4 ∧  ¬pamonha_5
+pamonha_2 ⇒  ¬pamonha_1 ∧  ¬pamonha_3 ∧  ¬pamonha_4 ∧  ¬pamonha_5
+pamonha_3 ⇒  ¬pamonha_1 ∧  ¬pamonha_2 ∧  ¬pamonha_4 ∧  ¬pamonha_5
+pamonha_4 ⇒  ¬pamonha_1 ∧  ¬pamonha_2 ∧  ¬pamonha_3 ∧  ¬pamonha_5
+pamonha_5 ⇒  ¬pamonha_1 ∧  ¬pamonha_2 ∧  ¬pamonha_3 ∧  ¬pamonha_4
+moleque_1 ⇒  ¬moleque_2 ∧  ¬moleque_3 ∧  ¬moleque_4 ∧  ¬moleque_5
+moleque_2 ⇒  ¬moleque_1 ∧  ¬moleque_3 ∧  ¬moleque_4 ∧  ¬moleque_5
+moleque_3 ⇒  ¬moleque_1 ∧  ¬moleque_2 ∧  ¬moleque_4 ∧  ¬moleque_5
+moleque_4 ⇒  ¬moleque_1 ∧  ¬moleque_2 ∧  ¬moleque_3 ∧  ¬moleque_5
+moleque_5 ⇒  ¬moleque_1 ∧  ¬moleque_2 ∧  ¬moleque_3 ∧  ¬moleque_4
+suspiro_1 ⇒  ¬suspiro_2 ∧  ¬suspiro_3 ∧  ¬suspiro_4 ∧  ¬suspiro_5
+suspiro_2 ⇒  ¬suspiro_1 ∧  ¬suspiro_3 ∧  ¬suspiro_4 ∧  ¬suspiro_5
+suspiro_3 ⇒  ¬suspiro_1 ∧  ¬suspiro_2 ∧  ¬suspiro_4 ∧  ¬suspiro_5
+suspiro_4 ⇒  ¬suspiro_1 ∧  ¬suspiro_2 ∧  ¬suspiro_3 ∧  ¬suspiro_5
+suspiro_5 ⇒  ¬suspiro_1 ∧  ¬suspiro_2 ∧  ¬suspiro_3 ∧  ¬suspiro_4
+alagoas_1 ⇒  ¬bahia_1 ∧  ¬ceara_1 ∧  ¬paraiba_1 ∧  ¬sergipe_1
+bahia_1 ⇒  ¬alagoas_1 ∧  ¬ceara_1 ∧  ¬paraiba_1 ∧  ¬sergipe_1
+ceara_1 ⇒  ¬alagoas_1 ∧  ¬bahia_1 ∧  ¬paraiba_1 ∧  ¬sergipe_1
+paraiba_1 ⇒  ¬alagoas_1 ∧  ¬bahia_1 ∧  ¬ceara_1 ∧  ¬sergipe_1
+sergipe_1 ⇒  ¬alagoas_1 ∧  ¬bahia_1 ∧  ¬ceara_1 ∧  ¬paraiba_1
+alagoas_2 ⇒  ¬bahia_2 ∧  ¬ceara_2 ∧  ¬paraiba_2 ∧  ¬sergipe_2
+bahia_2 ⇒  ¬alagoas_2 ∧  ¬ceara_2 ∧  ¬paraiba_2 ∧  ¬sergipe_2
+ceara_2 ⇒  ¬alagoas_2 ∧  ¬bahia_2 ∧  ¬paraiba_2 ∧  ¬sergipe_2
+paraiba_2 ⇒  ¬alagoas_2 ∧  ¬bahia_2 ∧  ¬ceara_2 ∧  ¬sergipe_2
+sergipe_2 ⇒  ¬alagoas_2 ∧  ¬bahia_2 ∧  ¬ceara_2 ∧  ¬paraiba_2
+alagoas_3 ⇒  ¬bahia_3 ∧  ¬ceara_3 ∧  ¬paraiba_3 ∧  ¬sergipe_3
+bahia_3 ⇒  ¬alagoas_3 ∧  ¬ceara_3 ∧  ¬paraiba_3 ∧  ¬sergipe_3
+ceara_3 ⇒  ¬alagoas_3 ∧  ¬bahia_3 ∧  ¬paraiba_3 ∧  ¬sergipe_3
+paraiba_3 ⇒  ¬alagoas_3 ∧  ¬bahia_3 ∧  ¬ceara_3 ∧  ¬sergipe_3
+sergipe_3 ⇒  ¬alagoas_3 ∧  ¬bahia_3 ∧  ¬ceara_3 ∧  ¬paraiba_3
+alagoas_4 ⇒  ¬bahia_4 ∧  ¬ceara_4 ∧  ¬paraiba_4 ∧  ¬sergipe_4
+bahia_4 ⇒  ¬alagoas_4 ∧  ¬ceara_4 ∧  ¬paraiba_4 ∧  ¬sergipe_4
+ceara_4 ⇒  ¬alagoas_4 ∧  ¬bahia_4 ∧  ¬paraiba_4 ∧  ¬sergipe_4
+paraiba_4 ⇒  ¬alagoas_4 ∧  ¬bahia_4 ∧  ¬ceara_4 ∧  ¬sergipe_4
+sergipe_4 ⇒  ¬alagoas_4 ∧  ¬bahia_4 ∧  ¬ceara_4 ∧  ¬paraiba_4
+alagoas_5 ⇒  ¬bahia_5 ∧  ¬ceara_5 ∧  ¬paraiba_5 ∧  ¬sergipe_5
+bahia_5 ⇒  ¬alagoas_5 ∧  ¬ceara_5 ∧  ¬paraiba_5 ∧  ¬sergipe_5
+ceara_5 ⇒  ¬alagoas_5 ∧  ¬bahia_5 ∧  ¬paraiba_5 ∧  ¬sergipe_5
+paraiba_5 ⇒  ¬alagoas_5 ∧  ¬bahia_5 ∧  ¬ceara_5 ∧  ¬sergipe_5
+sergipe_5 ⇒  ¬alagoas_5 ∧  ¬bahia_5 ∧  ¬ceara_5 ∧  ¬paraiba_5
+alagoas_1 ⇒  ¬alagoas_2 ∧  ¬alagoas_3 ∧  ¬alagoas_4 ∧  ¬alagoas_5
+alagoas_2 ⇒  ¬alagoas_1 ∧  ¬alagoas_3 ∧  ¬alagoas_4 ∧  ¬alagoas_5
+alagoas_3 ⇒  ¬alagoas_1 ∧  ¬alagoas_2 ∧  ¬alagoas_4 ∧  ¬alagoas_5
+alagoas_4 ⇒  ¬alagoas_1 ∧  ¬alagoas_2 ∧  ¬alagoas_3 ∧  ¬alagoas_5
+alagoas_5 ⇒  ¬alagoas_1 ∧  ¬alagoas_2 ∧  ¬alagoas_3 ∧  ¬alagoas_4
+bahia_1 ⇒  ¬bahia_2 ∧  ¬bahia_3 ∧  ¬bahia_4 ∧  ¬bahia_5
+bahia_2 ⇒  ¬bahia_1 ∧  ¬bahia_3 ∧  ¬bahia_4 ∧  ¬bahia_5
+bahia_3 ⇒  ¬bahia_1 ∧  ¬bahia_2 ∧  ¬bahia_4 ∧  ¬bahia_5
+bahia_4 ⇒  ¬bahia_1 ∧  ¬bahia_2 ∧  ¬bahia_3 ∧  ¬bahia_5
+bahia_5 ⇒  ¬bahia_1 ∧  ¬bahia_2 ∧  ¬bahia_3 ∧  ¬bahia_4
+ceara_1 ⇒  ¬ceara_2 ∧  ¬ceara_3 ∧  ¬ceara_4 ∧  ¬ceara_5
+ceara_2 ⇒  ¬ceara_1 ∧  ¬ceara_3 ∧  ¬ceara_4 ∧  ¬ceara_5
+ceara_3 ⇒  ¬ceara_1 ∧  ¬ceara_2 ∧  ¬ceara_4 ∧  ¬ceara_5
+ceara_4 ⇒  ¬ceara_1 ∧  ¬ceara_2 ∧  ¬ceara_3 ∧  ¬ceara_5
+ceara_5 ⇒  ¬ceara_1 ∧  ¬ceara_2 ∧  ¬ceara_3 ∧  ¬ceara_4
+paraiba_1 ⇒  ¬paraiba_2 ∧  ¬paraiba_3 ∧  ¬paraiba_4 ∧  ¬paraiba_5
+paraiba_2 ⇒  ¬paraiba_1 ∧  ¬paraiba_3 ∧  ¬paraiba_4 ∧  ¬paraiba_5
+paraiba_3 ⇒  ¬paraiba_1 ∧  ¬paraiba_2 ∧  ¬paraiba_4 ∧  ¬paraiba_5
+paraiba_4 ⇒  ¬paraiba_1 ∧  ¬paraiba_2 ∧  ¬paraiba_3 ∧  ¬paraiba_5
+paraiba_5 ⇒  ¬paraiba_1 ∧  ¬paraiba_2 ∧  ¬paraiba_3 ∧  ¬paraiba_4
+sergipe_1 ⇒  ¬sergipe_2 ∧  ¬sergipe_3 ∧  ¬sergipe_4 ∧  ¬sergipe_5
+sergipe_2 ⇒  ¬sergipe_1 ∧  ¬sergipe_3 ∧  ¬sergipe_4 ∧  ¬sergipe_5
+sergipe_3 ⇒  ¬sergipe_1 ∧  ¬sergipe_2 ∧  ¬sergipe_4 ∧  ¬sergipe_5
+sergipe_4 ⇒  ¬sergipe_1 ∧  ¬sergipe_2 ∧  ¬sergipe_3 ∧  ¬sergipe_5
+sergipe_5 ⇒  ¬sergipe_1 ∧  ¬sergipe_2 ∧  ¬sergipe_3 ∧  ¬sergipe_4
+suspiro_1 ⇔  alagoas_1
+suspiro_2 ⇔  alagoas_2
+suspiro_3 ⇔  alagoas_3
+suspiro_4 ⇔  alagoas_4
+suspiro_5 ⇔  alagoas_5
+azul_1 ⇒ 11anos_2 ∨ 11anos_3 ∨ 11anos_4 ∨ 11anos_5
+azul_2 ⇒ 11anos_3 ∨ 11anos_4 ∨ 11anos_5
+azul_3 ⇒ 11anos_4 ∨ 11anos_5
+azul_4 ⇒ 11anos_5
+¬ azul_5
+¬ 11anos_1
+luiz_3
+luciana_1 ⇒ tales_2
+tales_1 ⇒ luciana_2
+luciana_2 ⇒ tales_1 ∨ tales_3
+tales_2 ⇒ luciana_1 ∨ luciana_3
+luciana_3 ⇒ tales_2 ∨ tales_4
+tales_3 ⇒ luciana_2 ∨ luciana_4
+luciana_4 ⇒ tales_3 ∨ tales_5
+tales_4 ⇒ luciana_3 ∨ luciana_5
+luciana_5 ⇒ tales_4
+tales_5 ⇒ luciana_4
+verde_1 ⇒ bahia_2
+verde_2 ⇒ bahia_3
+verde_3 ⇒ bahia_4
+verde_4 ⇒ bahia_5
+¬ verde_5
+¬ bahia_1
+cuscuz_2
+luciana_1 ⇔  10anos_1
+luciana_2 ⇔  10anos_2
+luciana_3 ⇔  10anos_3
+luciana_4 ⇔  10anos_4
+luciana_5 ⇔  10anos_5
+suspiro_1 ⇒ roberto_2
+suspiro_2 ⇒ roberto_3
+suspiro_3 ⇒ roberto_4
+suspiro_4 ⇒ roberto_5
+¬ suspiro_5
+¬ roberto_1
+valentina_1 ⇒ eduarda_2
+valentina_2 ⇒ eduarda_3
+valentina_3 ⇒ eduarda_4
+valentina_4 ⇒ eduarda_5
+¬ valentina_5
+¬ eduarda_1
+azul_1 ⇒ 9anos_2
+9anos_1 ⇒ azul_2
+azul_2 ⇒ 9anos_1 ∨ 9anos_3
+9anos_2 ⇒ azul_1 ∨ azul_3
+azul_3 ⇒ 9anos_2 ∨ 9anos_4
+9anos_3 ⇒ azul_2 ∨ azul_4
+azul_4 ⇒ 9anos_3 ∨ 9anos_5
+9anos_4 ⇒ azul_3 ∨ azul_5
+azul_5 ⇒ 9anos_4
+9anos_5 ⇒ azul_4
+arroz_1 ⇒ alagoas_2
+arroz_2 ⇒ alagoas_3
+arroz_3 ⇒ alagoas_4
+arroz_4 ⇒ alagoas_5
+¬ arroz_5
+¬ alagoas_1
+verde_1 ⇒ 8anos_2 ∨ 8anos_3 ∨ 8anos_4 ∨ 8anos_5
+verde_2 ⇒ 8anos_3 ∨ 8anos_4 ∨ 8anos_5
+verde_3 ⇒ 8anos_4 ∨ 8anos_5
+verde_4 ⇒ 8anos_5
+¬ verde_5
+¬ 8anos_1
+francisco_1 ⇒ luiz_2
+francisco_2 ⇒ luiz_3
+francisco_3 ⇒ luiz_4
+francisco_4 ⇒ luiz_5
+¬ francisco_5
+¬ luiz_1
+amarelo_1 ⇒ 11anos_2
+amarelo_2 ⇒ 11anos_3
+amarelo_3 ⇒ 11anos_4
+amarelo_4 ⇒ 11anos_5
+¬ amarelo_5
+¬ 11anos_1
+fatima_1 ⇒ alagoas_2
+alagoas_1 ⇒ fatima_2
+fatima_2 ⇒ alagoas_1 ∨ alagoas_3
+alagoas_2 ⇒ fatima_1 ∨ fatima_3
+fatima_3 ⇒ alagoas_2 ∨ alagoas_4
+alagoas_3 ⇒ fatima_2 ∨ fatima_4
+fatima_4 ⇒ alagoas_3 ∨ alagoas_5
+alagoas_4 ⇒ fatima_3 ∨ fatima_5
+fatima_5 ⇒ alagoas_4
+alagoas_5 ⇒ fatima_4
+ceara_1 ⇒ sergipe_2
+ceara_2 ⇒ sergipe_3
+ceara_3 ⇒ sergipe_4
+ceara_4 ⇒ sergipe_5
+¬ ceara_5
+¬ sergipe_1
+roberto_1 ⇔  pamonha_1
+roberto_2 ⇔  pamonha_2
+roberto_3 ⇔  pamonha_3
+roberto_4 ⇔  pamonha_4
+roberto_5 ⇔  pamonha_5
+vermelho_1 ⇒ sergipe_2
+sergipe_1 ⇒ vermelho_2
+vermelho_2 ⇒ sergipe_1 ∨ sergipe_3
+sergipe_2 ⇒ vermelho_1 ∨ vermelho_3
+vermelho_3 ⇒ sergipe_2 ∨ sergipe_4
+sergipe_3 ⇒ vermelho_2 ∨ vermelho_4
+vermelho_4 ⇒ sergipe_3 ∨ sergipe_5
+sergipe_4 ⇒ vermelho_3 ∨ vermelho_5
+vermelho_5 ⇒ sergipe_4
+sergipe_5 ⇒ vermelho_4
+valentina_3
+verde_1 ⇒ jose_2 ∨ jose_3 ∨ jose_4 ∨ jose_5
+verde_2 ⇒ jose_3 ∨ jose_4 ∨ jose_5
+verde_3 ⇒ jose_4 ∨ jose_5
+verde_4 ⇒ jose_5
+¬ verde_5
+¬ jose_1

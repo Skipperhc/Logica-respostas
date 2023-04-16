@@ -1,0 +1,16 @@
+fatima_1 ⇒ alagoas_2
+alagoas_1 ⇒ fatima_2
+fatima_2 ⇒ alagoas_1 ∨ alagoas_3
+alagoas_2 ⇒ fatima_1 ∨ fatima_3
+fatima_3 ⇒ alagoas_2 ∨ alagoas_4
+alagoas_3 ⇒ fatima_2 ∨ fatima_4
+fatima_4 ⇒ alagoas_3 ∨ alagoas_5
+alagoas_4 ⇒ fatima_3 ∨ fatima_5
+fatima_5 ⇒ alagoas_4
+alagoas_5 ⇒ fatima_4
+
+
+respostas
+
+fatima_1 ⇒ alagoas_2
+fatima_5 ⇒ alagoas_4

@@ -1,0 +1,10 @@
+vermelho_1 ⇒ sergipe_2
+sergipe_1 ⇒ vermelho_2
+vermelho_2 ⇒ sergipe_1 ∨ sergipe_3
+sergipe_2 ⇒ vermelho_1 ∨ vermelho_3
+vermelho_3 ⇒ sergipe_2 ∨ sergipe_4
+sergipe_3 ⇒ vermelho_2 ∨ vermelho_4
+vermelho_4 ⇒ sergipe_3 ∨ sergipe_5
+sergipe_4 ⇒ vermelho_3 ∨ vermelho_5
+vermelho_5 ⇒ sergipe_4
+sergipe_5 ⇒ vermelho_4

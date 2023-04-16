@@ -1,0 +1,29 @@
+suspiro_1 ⇔  alagoas_1
+suspiro_2 ⇔  alagoas_2
+suspiro_3 ⇔  alagoas_3
+suspiro_4 ⇔  alagoas_4
+suspiro_5 ⇔  alagoas_5
+arroz_1 ⇒ alagoas_2
+arroz_2 ⇒ alagoas_3
+arroz_3 ⇒ alagoas_4
+arroz_4 ⇒ alagoas_5
+¬ alagoas_1
+fatima_1 ⇒ alagoas_2
+alagoas_1 ⇒ fatima_2
+fatima_2 ⇒ alagoas_1 ∨ alagoas_3
+alagoas_2 ⇒ fatima_1 ∨ fatima_3
+fatima_3 ⇒ alagoas_2 ∨ alagoas_4
+alagoas_3 ⇒ fatima_2 ∨ fatima_4
+fatima_4 ⇒ alagoas_3 ∨ alagoas_5
+alagoas_4 ⇒ fatima_3 ∨ fatima_5
+fatima_5 ⇒ alagoas_4
+alagoas_5 ⇒ fatima_4
+
+respostas 
+
+suspiro_3 ⇔  alagoas_3
+suspiro_4 ⇔  alagoas_4
+
+alagoas_4 ⇒ fatima_3 ∨ fatima_5
+
+
